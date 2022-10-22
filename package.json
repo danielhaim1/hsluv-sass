@@ -12,7 +12,7 @@
   "author": "Cameron Little <cameron@camlittle.com>",
   "license": "MIT",
   "dependencies": {
-    "mathsass": "^0.9.5",
+    "mathsass": "^0.11.0",
     "node-sass": "^4.1.1"
   },
   "devDependencies": {
